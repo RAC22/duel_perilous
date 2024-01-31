@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-164d48bc9830f56ecfe14e638c0c44b0.stex"
+path="res://.import/index.png-d9bb277b411f764fcc84452a68ef6d45.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Exported/duel_perilous/index.png"
-dest_files=[ "res://.import/index.png-164d48bc9830f56ecfe14e638c0c44b0.stex" ]
+source_file="res://Exported/index.png"
+dest_files=[ "res://.import/index.png-d9bb277b411f764fcc84452a68ef6d45.stex" ]
 
 [params]
 
